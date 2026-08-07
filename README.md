@@ -70,8 +70,8 @@ pip install -r requirements.txt
 ### 4.1. Local Jupyter
 
 ```bash
-git clone https://github.com/khanhnguyen2-dot/tsp-heuristics.git
-cd tsp-heuristics
+git clone https://github.com/hehahuhiho/TSP-Travelling-Saleman-Problem.git
+cd TSP-Travelling-Saleman-Problem
 pip install -r requirements.txt
 jupyter notebook code/project_discrete_maths.ipynb
 ```
